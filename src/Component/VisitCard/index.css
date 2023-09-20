@@ -1,0 +1,17 @@
+.cardContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid white;
+  border-radius: 5px;
+  width: 60px;
+  text-align: center;
+  padding: 6px;
+}
+li {
+  background-color: #334155;
+}
